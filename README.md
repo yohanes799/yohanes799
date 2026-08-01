@@ -1,16 +1,74 @@
-## Hi there 👋
+# Hi there, I'm Yohanes Christiano Caling Bahur 👋
 
-<!--
-**yohanes799/yohanes799** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img align="right" alt="Coding" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
-Here are some ideas to get you started:
+## 🚀 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 I'm a passionate developer who loves building creative solutions.  
+🌱 Currently learning more about **Web Development & Open Source**  
+🎯 Goal: Create useful projects and keep improving every day.  
+⚡ Fun fact: I love turning ideas into code.
+
+---
+
+## 🛠️ Tech Stack
+
+### Languages
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,python,go,java" />
+</p>
+
+### Framework & Tools
+<p>
+<img src="https://skillicons.dev/icons?i=react,nodejs,laravel,mysql,postgresqlb,git,github,vscode" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=USERNAME&theme=tokyonight" />
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=USERNAME&theme=tokyonight&row=1&column=6" />
+</p>
+
+---
+
+## 📈 Contribution Graph
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=USERNAME&theme=tokyo-night" />
+</p>
+
+---
+
+## 🌐 Connect With Me
+
+<p>
+<a href="www.linkedin.com/in/yohanes-christiano-caling-bahur">
+<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin">
+</a>
+
+<a href="https://www.instagram.com/yohanz_christiano/">
+<img src="https://img.shields.io/badge/Instagram-purple?style=for-the-badge&logo=instagram">
+</a>
+
+<a href="mailto:bahuryohanes08@gmail.com">
+<img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail">
+</a>
+</p>
+
+---
+
+⭐️ From [Yohanes Christiano Caling Bahur](https://github.com/yohanes799)
