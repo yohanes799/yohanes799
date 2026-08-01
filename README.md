@@ -16,7 +16,7 @@
 
 ### Framework & Tools
 <p>
-<img src="https://skillicons.dev/icons?i=react,nodejs,laravel,mysql,postgresqlb,git,github,vscode" />
+<img src="https://skillicons.dev/icons?i=react,nodejs,laravel,mysql,postgresql,git,github,vscode" />
 </p>
 
 ---
