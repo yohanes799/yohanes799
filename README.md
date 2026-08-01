@@ -1,8 +1,14 @@
 # Hi there, I'm Yohanes Christiano Caling Bahur 👋
 
-| About Me | |
-|----------|---|
-| 💻 Passionate Developer<br>🌱 Learning Web Development<br>🎯 Build useful projects<br>⚡ Love coding | <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300"> |
+<img align="right" alt="Coding" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+
+## 🚀 About Me
+<br clear="both">
+
+💻 I'm a passionate developer who loves building creative solutions.  
+🌱 Currently learning more about **Web Development & Open Source**  
+🎯 Goal: Create useful projects and keep improving every day.  
+⚡ Fun fact: I love turning ideas into code.
 
 <br clear="both">
 ---
