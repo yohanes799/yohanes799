@@ -2,7 +2,7 @@
 
 | About Me | |
 |----------|---|
-| 💻 Passionate Developer<br>🌱 Learning Web Development<br>🎯 Build useful projects<br>⚡ Love coding | <img src="LINK_GAMBAR" width="300"> |
+| 💻 Passionate Developer<br>🌱 Learning Web Development<br>🎯 Build useful projects<br>⚡ Love coding | <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300"> |
 
 <br clear="both">
 ---
